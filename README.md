@@ -1,5 +1,4 @@
 # Civilian-Conflicts
-![Stop war](https://github.com/user-attachments/assets/8c3751e0-73cc-4df2-acb7-d92453b56e39)
 
 ## A multi-page dashboard visualizing global conflict-related fatalities. It highlights conflict details, causation, distribution, and overall impact.
 
