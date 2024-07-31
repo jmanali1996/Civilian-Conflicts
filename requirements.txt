@@ -1,0 +1,9 @@
+dash
+dash.ly
+dash_ag_grid
+dash_bootstrap_components
+dash_iconify
+dash_mantine_components==0.14.2
+numpy
+pandas
+plotly
