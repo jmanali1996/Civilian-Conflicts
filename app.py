@@ -13,7 +13,7 @@ import numpy as np
 _dash_renderer._set_react_version("18.2.0")
 
 # EDA
-df = pd.read_csv("https://we.tl/t-1vpMRHUTjO", low_memory=False)
+df = pd.read_csv("https://raw.githubusercontent.com/jmanali1996/Civilian-Conflicts/main/GEDEvent_v24_1.csv", low_memory=False)
 df = df.astype({"type_of_violence": 'str'})
 df.loc[df['type_of_violence'] == '1', 'type_of_violence'] = "State-based conflict"
 df.loc[df['type_of_violence'] == '2', 'type_of_violence'] = "Non-state conflict"
